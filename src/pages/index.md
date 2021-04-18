@@ -5,7 +5,7 @@ sections:
     title: Kumpulan Lirik Lagu Lentera
     subtitle: >-
       Dokumentasi untuk masa depan sebelum lupa. Semua lagu yang dibuat akan di
-      pajang disini
+      pajang disini.
     actions:
       - type: action
         label: Learn More
