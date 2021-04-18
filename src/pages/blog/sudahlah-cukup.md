@@ -1,6 +1,8 @@
 ---
 title: Sudahlah Cukup
 date: 2021-04-18T18:04:52.758Z
+categories:
+  - src/data/categories/general.yaml
 tags:
   - Lagu
   - Lirik
