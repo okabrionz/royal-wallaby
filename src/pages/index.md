@@ -3,7 +3,9 @@ title: Lentera
 sections:
   - type: hero_section
     title: Kumpulan Lirik Lagu Lentera
-    subtitle: L
+    subtitle: >-
+      Dokumentasi untuk masa depan sebelum lupa. Semua lagu yang dibuat akan di
+      pajang disini
     actions:
       - type: action
         label: Learn More
